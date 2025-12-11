@@ -1,5 +1,5 @@
-# 📊 Q4 Multi-Channel Marketing Performance & Forecast Alignment  
-### **Full Marketing Analytics Case Study | 50K+ Records | Power BI | Python | SQL**
+# Q4 Multi-Channel Marketing Performance & Forecast Alignment  
+### **Full Marketing Analytics Case Study | Power BI | Python | SQL**
 
 This repository contains a complete end-to-end analytics project analyzing Q4 marketing performance, forecasting accuracy, and product launch impact across five major channels.
 
@@ -7,9 +7,11 @@ The project is structured as a real stakeholder request, followed by professiona
 
 This case study is designed to demonstrate business problem-solving, analytical depth, and dashboard storytelling — ideal for hiring managers evaluating real-world data skills.
 
+<img width="1017" height="890" alt="ERD" src="https://github.com/user-attachments/assets/6a20350e-3f1b-46e0-b0c2-123435f3f7fc" />
+
 ---
 
-# 📬 1. Stakeholder Request (Real Scenario)
+# 1. Stakeholder Request (Real Scenario)
 
 Marketing leadership sent the following request:
 
@@ -27,7 +29,7 @@ Marketing leadership sent the following request:
 
 ---
 
-# 📂 2. Project Structure
+# 2. Project Structure
 
 Q4_MultiChannel_Performance/
 │
@@ -157,6 +159,8 @@ This project includes a complete dashboard suite:
 - Funnel performance  
 - Key wins & losses  
 
+<img width="1168" height="655" alt="1" src="https://github.com/user-attachments/assets/0e28fe04-496d-414e-9ea2-1b53afb63454" />
+
 ## **2. Channel Performance**
 ### Answers:
 - Which channel is most efficient?  
@@ -168,17 +172,15 @@ This project includes a complete dashboard suite:
 - Channel CTR/CVR  
 - Spend vs Revenue Contribution  
 
+<img width="1168" height="654" alt="2" src="https://github.com/user-attachments/assets/b0786dd4-7539-4ff1-bad2-9fe7701a5259" />
+
 ## **3. Campaign Insights**
 - Campaign ROAS ranking  
 - Daily/hourly performance  
 - Budget utilization  
 - High CPA alerts  
 
-## **4. Forecast vs Actual**
-- Actual vs Forecast  
-- Error bands  
-- Residual heatmap  
-- Accuracy by channel & campaign  
+<img width="1168" height="657" alt="3" src="https://github.com/user-attachments/assets/43272201-303c-405f-a326-6bc1d23e56b6" />
 
 ## **5. Product Launch Impact**
 - Awareness lift  
@@ -186,9 +188,11 @@ This project includes a complete dashboard suite:
 - Conversion correlation  
 - Channel-level impact score  
 
+<img width="1167" height="653" alt="4" src="https://github.com/user-attachments/assets/84d17cab-0842-49fa-96f1-b0c0a117de48" />
+
 ---
 
-# 7. Insights (Phase 5)
+# 7. Insights
 
 ### **Key Findings**
 - **POAS is weak (~0.45 average)** — low profitability across all channels.  
