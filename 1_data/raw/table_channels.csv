@@ -1,0 +1,6 @@
+channel_id,channel_name,cost_model
+1,Facebook,CPC
+2,Google,CPC
+3,Instagram,CPM
+4,TikTok,CPM
+5,LinkedIn,CPC
