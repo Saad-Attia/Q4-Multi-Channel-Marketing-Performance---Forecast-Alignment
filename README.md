@@ -29,42 +29,8 @@ Marketing leadership sent the following request:
 
 ---
 
-# 2. Project Structure
 
-Q4_MultiChannel_Performance/
-│
-├── 0_Stakeholder_Request/
-│   └── request_email.md
-│
-├── 1_Data/
-│   ├── raw/
-│   ├── clean/
-│   ├── data_dictionary.md
-│   └── quality_checks.sql
-│
-├── 2_Technical/
-│   ├── Cleaning/
-│   │   ├── 1. Data Quality Assurance.sql
-│   │   └── 2. Data Cleaning.sql
-│   ├── EDA/
-│   │   └── EDA.ipynb
-│   └── KPIs/
-│       └── kpi_definitions.md
-│
-├── 3_Dashboards/
-│   ├── Executive_Summary.pbix
-│   ├── Channel_Performance.pbix
-│   ├── Campaign_Insights.pbix
-│   └── Product_Launch_Impact.pbix
-│
-├── 4_Insights/
-│   └── Phase_5_Insights_and_Recommendations.md
-│
-└── README.md
-
----
-
-# 3. Data Cleaning (Professional Workflow)
+# 2. Data Cleaning (Professional Workflow)
 
 ### **Data Validations**
 - Verified primary & foreign key relationships  
@@ -95,7 +61,7 @@ A final clean dataset is exported into `/clean`.
 
 ---
 
-# 4. Structured EDA
+# 3. Structured EDA
 
 ### **Univariate**
 - Spend, impressions, clicks, conversions  
@@ -120,7 +86,7 @@ A major drop was found between **Awareness → Consideration**.
 
 ---
 
-# 5. KPI Framework
+# 4. KPI Framework
 
 ### **Efficiency KPIs**
 - ROAS / POAS  
@@ -149,7 +115,7 @@ Full dictionary available in `KPIs/kpi_definitions.md`.
 
 ---
 
-# 6. Dashboards (Power BI)
+# 5. Dashboards (Power BI)
 
 This project includes a complete dashboard suite:
 
@@ -192,7 +158,7 @@ This project includes a complete dashboard suite:
 
 ---
 
-# 7. Insights
+# 6. Insights
 
 ### **Key Findings**
 - **POAS is weak (~0.45 average)** — low profitability across all channels.  
@@ -205,7 +171,7 @@ This project includes a complete dashboard suite:
 
 ---
 
-# 8. Recommendations
+# 7. Recommendations
 
 ### **1. Budget Reallocation**
 **Increase:**  
@@ -237,7 +203,7 @@ This project includes a complete dashboard suite:
 
 ---
 
-# 9. Final Deliverables
+# 8. Final Deliverables
 
 - Cleaned datasets + data dictionary  
 - SQL cleaning scripts  
